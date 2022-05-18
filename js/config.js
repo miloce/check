@@ -24,5 +24,13 @@ window.Config = {
     {
       text: '没有刷新出来就等下，不要刷新！不要刷新！不要刷新！',
     },
+    {
+      text: 'Homepage',
+      url: 'https://luozhinet.com/'
+    },
+    {
+      text: 'GitHub',
+      url: 'https://github.com/luozhixiaowo'
+    }
   ]
 };
