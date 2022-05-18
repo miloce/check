@@ -5,7 +5,7 @@ window.Config = {
   SiteName: '服务器状态监控',
 
   // 站点链接
-  SiteUrl: 'check.luozhinet.com',
+  SiteUrl: 'luozhinet.com',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
@@ -13,7 +13,7 @@ window.Config = {
     'u1735047-3047b43a32696a5e5b6d6b15',
   ],
 
-  ApiDomain: 'https://uptimerobot.com/api/',
+  ApiDomain: 'api.uptimerobot.com',
   // 是否显示监测站点的链接
   ShowLink: true,
 
